@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on my master thesis which is a diffusion based approach for image synthesis and building a social network as a side project where users can create images in the spot and share them with others<br>I'm looking to collaborate on new interesting ideas to build in pytorch in both Computer vision and Generative models<br>I'm currently learning about generative models
+👋 Hi there! I'm currently engrossed in my Master's thesis, which revolves around a diffusion-based approach for image synthesis 🎨. In addition to this, I'm also building a social network as a side project. This unique platform allows users to create and share images on the spot 📸.
+
+I'm always on the lookout for new and interesting ideas to build in PyTorch, particularly in the realms of Computer Vision 👁️ and Generative Models 🧠.
+
+Currently, I'm diving deeper into the fascinating world of generative models and am excited about the potential they hold 💡.
+
+Feel free to reach out if you'd like to collaborate or exchange ideas. Let's learn and grow together! 🚀
 
 
 ## 🌐 Socials:
