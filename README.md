@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm currently engrossed in my Master's thesis, which revolves around a diffusion-based approach for image synthesis 🎨. In addition to this, I'm also building a social network as a side project. This unique platform allows users to create and share images on the spot 📸.
+👋 Hi there! I recently completed my Master's thesis, which focused on a diffusion-based approach for image synthesis 🎨. Currently, I am working as an AI Developer, where I continue to explore innovative technologies. I am also developing a unique social network platform that enables users to create and share images instantly 📸.
 
 I'm always on the lookout for new and interesting ideas to build in PyTorch, particularly in the realms of Computer Vision 👁️ and Generative Models 🧠.
 
